@@ -20,6 +20,7 @@ to test your program run the testing script by:
 you can also manually test your solution by doing this:
 
 gcc -Wall -Werror -O -o staircase staircase.c
+
 ./staircase size
 
 where size is a number you input.
@@ -44,6 +45,7 @@ to test your program run the testing script by:
 you can also manually test your solution by doing this:
 
 gcc -Wall -Werror -O -o sort sort.c
+
 ./sort length num1 num2 numN
 
 where length is the size of the array which contains num1, num2 ... numN
